@@ -1,4 +1,4 @@
-t #include <IRremote.h>
+#include <IRremote.h>
 #include "Keyboard.h"
 #include <AbsMouse.h>
 
